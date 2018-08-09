@@ -1,0 +1,35 @@
+*{
+	font-family: 'Work Sans', sans-serif;
+}
+.logo{
+}
+.socialicon {
+	font-size: 24px;
+}
+.icon-facebook2{
+	color: #365899;
+}
+.icon-facebook2:hover{
+	color: black;
+}
+.icon-twitter{
+	color: #00aced;
+}
+.icon-twitter:hover{
+	color: black;
+}
+.icon-youtube{
+	color:#ee0f0f;
+}
+.icon-youtube:hover{
+	color: black;
+}
+.icon-mail{
+	color:#f2e5d2;
+}
+.icon-mail:hover{
+	color: black;
+}
+.title{
+	padding-top: 2%;
+}
